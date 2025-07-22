@@ -28,6 +28,9 @@ export const metadata = {
       },
     ],
   },
+  icons: {
+    icon: '/logo-scroll-craft.svg',
+  },
 };
 
 
